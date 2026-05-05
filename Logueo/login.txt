@@ -1,1 +1,1 @@
-Login basico de usuario
+Login con email y contraseña
